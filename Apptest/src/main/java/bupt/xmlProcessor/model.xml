@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<modelParam>
+  <ne>
+    <a>3</a>
+    <b>4</b>
+    <c>dtg</c>
+    <d>[2, 4]</d>
+  </ne>
+</modelParam>
